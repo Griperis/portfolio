@@ -1,3 +1,5 @@
+// Author: Zdeněk Doležal 2019-2021
+
 let liItems = $(".main-nav ul li.hide-sm");
 
 $(".smooth-scroll").click(function(event) {
