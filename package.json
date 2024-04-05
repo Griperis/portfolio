@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "purgecss": "^6.0.0"
+  },
+  "scripts": {
+    "purgecss": "purgecss --css css/style.css --content index.html js/script.js --output dist"
+  }
+}
